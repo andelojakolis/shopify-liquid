@@ -191,14 +191,14 @@
   }
 
   .image-with-text__content--desktop-right > * {
-    align-self: flex-start;
-    text-align: left;
+    align-self: flex-end;
+    text-align: right;
   }
 
   .image-with-text__content--desktop-left > * {
+    align-self: flex-start;
+    text-align: left;
     
-    align-self: flex-end;
-    text-align: right;
   }
 
   .image-with-text__content--desktop-center > * {
