@@ -68,7 +68,7 @@
 
 .image-with-text__media--placeholder > svg {
   position: absolute;
-  left: 50%;
+  right: 50%;
   max-width: 80rem;
   top: 50%;
   transform: translate(-50%, -50%);
